@@ -1,2 +1,2 @@
 --This is a comment
-let conc a b = 'a' + 'b'
+avg a b = (a + b)/2
